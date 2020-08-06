@@ -2,7 +2,7 @@
 
 ## Hello word 👋
 
-Sou estudante de Sistemas de Informação e apaixonada por desenvolvimento Front-End.
+Estudante de Sistemas de Informação apaixonada por desenvolvimento Front-End.
  <br/> :purple_heart: &nbsp; Sou novata no mundo do desenvolvimento
  <br/> :computer: &nbsp; Minha stack: HTML, CSS, JavaScript
  <br/> 💬  &nbsp; Sobre mim: Amo series nerds, Apaixonada por bichinho de pelucia

@@ -2,9 +2,10 @@
 
 ## Hello word 👋
 
-Estudante de Sistemas de Informação apaixonada por desenvolvimento Front-End.
+Engenharia de Software - UnB
+Apaixonada por desenvolvimento **Front-End** e iniciando uma aventura em **Data Science**.
  <br/> :purple_heart: &nbsp; Sou novata no mundo do desenvolvimento
- <br/> :computer: &nbsp; Minha stack: HTML, CSS, JavaScript
+ <br/> :computer: &nbsp; Minha stack: HTML, CSS, JavaScript, Python
  <br/> 💬  &nbsp; Sobre mim: Amo series nerds, Apaixonada por bichinho de pelucia
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-DaraMaria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dara-maria/)](https://www.linkedin.com/in/dara-maria/) 
 | 
